@@ -19,7 +19,7 @@ I like create web applications. I graduated from the evening course of the VSU U
 ## Code examples
     function isBreathtaking(word) {  
         if (word.toLowerCase().trim() == 'you're breathtaking') {  
-            return `you're breathtaking`;  
+            return word;  
         }  
         return -1;  
     }  
