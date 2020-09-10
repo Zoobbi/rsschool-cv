@@ -1,7 +1,8 @@
 # Aleh Navoyeu
 ## Contacts
 Located in Vitebsk, Belarus  
-email: karibyon@gmail.com
+email: karibyon@gmail.com  
+Skype: basketlife8
 
 ## Summary
 I like create web applications. I graduated from the evening course of the VSU University in programming. Which gave me a deep theoretical  knowledge. I read a lot of books, watched a lot of training videos. Created projects from the start. My goal is to gain new knowledge and apply them.
